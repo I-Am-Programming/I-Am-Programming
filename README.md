@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @I-Am-Programming
 - 👀 I’m interested in programming/coding
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently learning web development and data science
 - 📫 How to reach me - Discord AlgorithmSus#1971
 
 <!---
