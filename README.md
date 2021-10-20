@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @I-Am-Programming
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web development and data science
+- 🌱 Web Developer
 - 📫 How to reach me - Email: milanmalik121@outlook.com
  
 <h1>My Experience</h1>
